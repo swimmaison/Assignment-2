@@ -16,7 +16,6 @@ Using the Bootstrap CSS Framework I created a mobile responsive portfolio that c
 
 ## Table Of Contents:
   * [Installation](#installation)
-  * [User Story](#userstory)
   * [Technologies Used](#technologiesused)
   * [Future Development](#futuredevelopment)
   * [Credits](#credits)
